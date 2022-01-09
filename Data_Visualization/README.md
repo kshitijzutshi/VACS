@@ -3,7 +3,7 @@
 Notebooks for the lessions on data visualization for the Visual Analytics and Computational Skepticism
  YouTube course [https://www.youtube.com/c/NikBearBrown](https://www.youtube.com/c/NikBearBrown) 
  
-## Data Visualization Recipe
+## Data Visualization Recipe  
 
 Types of Visualization (The why?)
 * Explanatory (Communicate something to a larger audience)  
@@ -29,10 +29,17 @@ Fix data issues and log what was done
 * Upsample
 * Create synthetic data 
 
+Feature selection 
+* Which features are important?
+* Entropy/information of each feature  
+* Partial dependencies/marginal contributions of each feature    
+* Relations between the features  
+* Dependencies between the features  
+
 Scale, normalize and transform
-* When the scale?
-* When the normalize?
-* When the transform?
+* When to scale?
+* When to normalize?
+* When to transform?
 
 Graphical components
 * X-position  
@@ -44,25 +51,26 @@ Graphical components
 * Faceting (small multiples) 
 
 
-Chart types and fundamental graphs
-* Bar chart  (Categorical versus numeric)
-* Scatter plot (Numeric versus numeric)
-* Line graphs (Sequence versus numeric)
-* Matrix (Rows versus columns)
-* Maps (Transformation)
+Chart types and fundamental graphs   
+* Bar chart  (Categorical versus numeric)  
+* Scatter plot (Numeric versus numeric)  
+* Line graphs (Sequence versus numeric) 
+* Matrix (Rows versus columns)  
+* Maps (Transformation)  
+
 See the Data Visualisation Catalogue   [https://datavizcatalogue.com](https://datavizcatalogue.com)  
 
 
 
-Legends, Labels, Annotations, and Typeface
-* How to design and choose legends, labels, annotations and type
+Legends, Labels, Annotations, and Typeface  
+* How to design and choose legends, labels, annotations and type   
 
 
-Visual cognitive effectiveness
-* Quality of Data  
-* Accuracy  
-* Discriminability  
-* Salience  
+Visual cognitive effectiveness   
+* Quality of Data    
+* Accuracy   
+* Discriminability    
+* Salience    
 * Clutter  
 * Grouping  
 
