@@ -3,7 +3,7 @@
 Notebooks for the lessions on data visualization for the Visual Analytics and Computational Skepticism
  YouTube course [https://www.youtube.com/c/NikBearBrown](https://www.youtube.com/c/NikBearBrown) 
  
-## Data Visualization Recipe  
+## Data Visualization Recipe (Each of these will be covered in the VACS  YouTube course [https://www.youtube.com/c/NikBearBrown](https://www.youtube.com/c/NikBearBrown))   
 
 Types of Visualization (The why?)
 * Explanatory (Communicate something to a larger audience)  
@@ -62,7 +62,7 @@ See the Data Visualisation Catalogue   [https://datavizcatalogue.com](https://da
 
 
 
-Legends, Labels, Annotations, and Typeface  
+Legends, labels, annotations, and typeface  
 * How to design and choose legends, labels, annotations and type   
 
 
@@ -87,6 +87,27 @@ A collection of data visualization chart choosers, reference guides, cheat sheet
 The Data Visualisation Catalogue   [https://datavizcatalogue.com](https://datavizcatalogue.com)  
 
 The Data Visualisation Catalogue is a project developed by [http://www.severinoribecca.one](Severino Ribecca) to create a library of different information visualisation types. The website serves as a learning and inspiration resource for those working with data visualisation. 
+
+
+*The Chart Chooser Dissected*  
+
+Identify the most effective graphical elements to use in your presentation from [https://www.qlik.com/blog/third-pillar-of-mapping-data-to-visualizations-usage](The Chart Chooser). Decide what charts will provide the most convincing display of your quantitative evidence. 
+
+Download a [https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf](pdf of the chart chooser).  
+
+
+ 
+ 
+ 
+ 
+ 
+*Visualizing Percentages & Parts of a Whole*
+
+Working with percentages is very common, and one of the most challenging parts of designing data visualizations. 
+
+
+You can download a PDF of the reference sheet here: [https://static1.squarespace.com/static/59df9853cd0f68dd29301c12/t/5c54cc23652dea724570e8c4/1549061155345/Visualizing-Percentages-20-Ways-InfoNewt.pdf](Visualizing-Percentages-20-Ways-InfoNewt.pdf)  
+
 
 
  
