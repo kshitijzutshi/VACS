@@ -78,7 +78,7 @@ A collection of data visualization chart choosers, reference guides, cheat sheet
 
 The Data Visualisation Catalogue   [https://datavizcatalogue.com](https://datavizcatalogue.com)  
 
-The Data Visualisation Catalogue is a project developed by [http://www.severinoribecca.one/](Severino Ribecca) to create a (non-code-based) library of different information visualisation types. The website serves as a learning and inspiration resource for those working with data visualisation. 
+The Data Visualisation Catalogue is a project developed by [http://www.severinoribecca.one](Severino Ribecca) to create a library of different information visualisation types. The website serves as a learning and inspiration resource for those working with data visualisation. 
 
 
  
