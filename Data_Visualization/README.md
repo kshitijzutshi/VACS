@@ -99,7 +99,7 @@ Download a <a href='https://extremepresentation.typepad.com/files/choosing-a-goo
 
 *Financial Times Visual Vocabulary* 
 
-A <a href='https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary'PDF poster</a> (available in English, Japanese, traditional Chinese and simplified Chinese) to assist designers and journalists to select the optimal symbology for data visualisations, by the <a href='https://www.ft.com/visual-and-data-journalism'>Financial Times Visual Journalism Team</a>.  
+A <a href='https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary'>PDF poster</a> (available in English, Japanese, traditional Chinese and simplified Chinese) to assist designers and journalists to select the optimal symbology for data visualisations, by the <a href='https://www.ft.com/visual-and-data-journalism'>Financial Times Visual Journalism Team</a>.  
 
 
 *The Data Viz Project*  
