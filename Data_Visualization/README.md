@@ -16,12 +16,14 @@ Check the data! GIGO (Garbage-in, garbage-out)
 * Missing values?
 * Data types (Categorical, Nominal, Ordinal, Numeric, Strings, Dates)
 * Descriptive statistics
-    -  Numeric
-    -  Categorical
-* Data type attributes (GPS, Sequence/Time-series, Nodes/Edges)
-* Data structure (Tabular, Graph, Time-series, Hierarchical, Geographic, Map, Network, etc.)
-* Data type semantics (Spatial, Temporal)
-* Outliers?
+    -  Numeric (.describe())
+    -  Categorical (Shannon entropy, valence/unique values, counts each value)
+* Data type attributes (GPS, Sequence/Time-series, Nodes/Edges) - User feedback
+* Data structure (Tabular, Graph, Time-series, Hierarchical, Geographic, Map, Network, etc.) - User feedback
+* Data type semantics (Spatial, Temporal) - User feedback
+* Outliers? (Numeric Box-whisker x times (deflaut 1.5) interquartile range, categorical would be rare values/low % default < 1%)
+
+To do:
 * Enough data (Power)?
 * Is the data stationary?
 * Is the data biased?
