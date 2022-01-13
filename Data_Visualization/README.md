@@ -15,6 +15,9 @@ Types of Visualization (The why?)
 Check the data! GIGO (Garbage-in, garbage-out)
 * Missing values?
 * Data types (Categorical, Nominal, Ordinal, Numeric, Strings, Dates)
+* Descriptive statistics
+    -  Numeric
+    -  Categorical
 * Data type attributes (GPS, Sequence/Time-series, Nodes/Edges)
 * Data structure (Tabular, Graph, Time-series, Hierarchical, Geographic, Map, Network, etc.)
 * Data type semantics (Spatial, Temporal)
