@@ -38,7 +38,6 @@ Fix data issues and log what was done
 
 Feature selection 
 * Which features are important?
-* Entropy/information of each feature  
 * Partial dependencies/marginal contributions of each feature    
 * Relations between the features  
 * Dependencies between the features  
